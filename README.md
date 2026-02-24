@@ -11,7 +11,7 @@
 | **Market Alert Monitor** | (https://SindhuEna31.github.io/market-alert-monitor/) | Real-time stock price change detector | JS, Logic Gates |
 | **Fraud Intel Analyzer** | (https://SindhuEna31.github.io/fraud-intel-analyzer/) | NLP extraction of fraud data from text | Regex, NLP |
 | **Loan Qualifier** | (https://SindhuEna31.github.io/loan-qualifier-calculator/) | Credit risk assessment calculator | Financial Math |
-| **Jargon Decoder** | Plain-English translator for finance terms | String Mapping |
+| **Jargon Decoder** | (https://sindhuena31.github.io/financial-jargon-decoder/) | Plain-English translator for finance terms | String Mapping |
 | **Contract Tracker** | Visual version comparison (Diffing) | Text Processing |
 | **Expense Anomaly** | Fraud detection for CSV expense logs | Data Heuristics |
 | **Portfolio Risk** | Asset allocation and drift analyzer | Data Viz |
