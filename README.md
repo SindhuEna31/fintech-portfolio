@@ -14,7 +14,7 @@
 | **Jargon Decoder** | (https://sindhuena31.github.io/financial-jargon-decoder/) | Plain-English translator for finance terms | String Mapping |
 | **Contract Tracker** | (https://sindhuena31.github.io/contract-change-tracker/) | Visual version comparison (Diffing) | Text Processing |
 | **Expense Anomaly** | (https://sindhuena31.github.io/expense-anomaly-detector/) | Fraud detection for CSV expense logs | Data Heuristics |
-| **Portfolio Risk** | Asset allocation and drift analyzer | Data Viz |
+| **Portfolio Risk** | (https://sindhuena31.github.io/portfolio-balance-calculator/) | Asset allocation and drift analyzer | Data Viz |
 
 ---
 
